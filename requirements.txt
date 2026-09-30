@@ -1,0 +1,10 @@
+Flask
+streamlit
+requests
+pandas
+numpy
+scikit-learn
+plotly
+PyMySQL
+python-dotenv
+joblib
